@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">popularmoviestage1</string>
+    <string name="no_internet_connection">no net connection</string>
+    <string name="no_movies_avilable">No movies update are avilabel plese check ckeck net connection</string>
+    <!--erreo message show -->
+    <string name=""
+</resources>
